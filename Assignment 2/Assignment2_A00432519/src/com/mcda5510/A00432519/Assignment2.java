@@ -193,7 +193,7 @@ public class Assignment2 {
 			 }
 			 FileWriter.flush();
 			 FileWriter.close();
-
+ 
 			 
 		}
 		catch (Exception e) {
