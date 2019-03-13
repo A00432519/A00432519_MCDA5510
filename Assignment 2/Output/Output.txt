@@ -1,0 +1,76 @@
+Select one from below
+Select 1 for Inserting a transaction
+Select 2 for Updating the transaction
+Select 3 for deleting the transaction
+Select 4 for fetching a transaction details
+2
+Enter the transaction id for which updation needs to be done45
+Enter the Name On Card to be updated :- 
+rtyui
+Select one from below
+Select 1 for Inserting a transaction
+Select 2 for Updating the transaction
+Select 3 for deleting the transaction
+Select 4 for fetching a transaction details
+2
+Enter the transaction id for which updation needs to be done
+45Enter the Name On Card to be updated :- 
+rtyui
+Select one from below
+Select 1 for Inserting a transaction
+Select 2 for Updating the transaction
+Select 3 for deleting the transaction
+Select 4 for fetching a transaction details
+2
+Enter the transaction id for which updation needs to be done
+45
+Enter the Name On Card to be updated :- 
+ertyui
+Select one from below
+Select 1 for Inserting a transaction
+Select 2 for Updating the transaction
+Select 3 for deleting the transaction
+Select 4 for fetching a transaction details
+1
+Enter the transaction details below :-
+Enter the transaction ID :- 
+78
+Enter the Name On Card :-
+wertyu
+Select the type of card
+Select 1 for MasterCard
+Select 2 for Visa
+Select 3 for American Express
+1
+Enter the Card Number :-
+5312345678912345
+Enter the Unit Price in decimals :-
+45.0
+Enter the Quantity in decimals :-
+5.0
+Enter the Expiry Date of Card in format MM/YYYY:-
+04/2026
+Select one from below
+Select 1 for Inserting a transaction
+Select 2 for Updating the transaction
+Select 3 for deleting the transaction
+Select 4 for fetching a transaction details
+1
+Enter the transaction details below :-
+Enter the transaction ID :- 
+101
+Enter the Name On Card :-
+wertyui
+Select the type of card
+Select 1 for MasterCard
+Select 2 for Visa
+Select 3 for American Express
+1
+Enter the Card Number :-
+5312345678912345
+Enter the Unit Price in decimals :-
+45.0
+Enter the Quantity in decimals :-
+4.0
+Enter the Expiry Date of Card in format MM/YYYY:-
+04/2023
