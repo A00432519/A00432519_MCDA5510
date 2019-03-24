@@ -9,7 +9,7 @@ City::Halifax
 Province::Nova Scotia
 Country::Canada
 Postalcode::B3J 2K9
-Phoneno::123456789
+Phoneno::902-579-9333
 Email::DC@gmail.com
 Status::
 
@@ -25,7 +25,7 @@ Country::Canada
 Postalcode::B3J 2K9
 Phoneno::12345568535
 Email::DW@gmail.com
-Status::
+Status::Phone Number format not proper 
 
 Next Record
 Customer Id::3
@@ -39,93 +39,37 @@ Country::Canada
 Postalcode::B3J 2K9
 Phoneno::12345772698
 Email::EW@gmail.com
-Status::
+Status::Phone Number format not proper 
 
 Next Record
-You reached the end of Records
-
-Previous Record
-Customer Id::2
-Firstname::David
-Lastname::Watson
-Streetno::1333
-Streetname::South Park Street
-City::Halifax
-Province::Nova Scotia
-Country::Canada
-Postal Code::B3J 2K9
-Phoneno::12345568535
-Email::DW@gmail.com
-Status::
-
-Previous Record
-Customer Id::1
-Firstname::Divya
-Lastname::Chainani
-Streetno::1333
-Streetname::South Park Street
-City::Halifax
-Province::Nova Scotia
-Country::Canada
-Postal Code::B3J 2K9
-Phoneno::123456789
-Email::DC@gmail.com
-Status::
-
-Previous Record
-You reached the end of Records
-
-Previous Record
-You reached the end of Records
-
-Previous Record
-You reached the end of Records
-
-Previous Record
-You reached the end of Records
-
-Previous Record
-You reached the end of Records
-
-Previous Record
-You reached the end of Records
-
-Previous Record
-You reached the end of Records
-
-Next Record
-Customer Id::2
-Firstname::David
+Customer Id::4
+Firstname::Donna
 Lastname::Watson
 Streetn::1333
 Streetname::South Park Street
 City::Halifax
 Province::Nova Scotia
 Country::Canada
-Postalcode::B3J 2K9
-Phoneno::12345568535
-Email::DW@gmail.com
-Status::
+Postalcode::B3JHK9
+Phoneno::1547656786
+Email::DOW@gmail.com
+Status::Invalid postal code 
 
 Next Record
+You reached the end of Records
+
+Previous Record
 Customer Id::3
 Firstname::Emma
 Lastname::Watson
-Streetn::1333
+Streetno::1333
 Streetname::South Park Street
 City::Halifax
 Province::Nova Scotia
 Country::Canada
-Postalcode::B3J 2K9
+Postal Code::B3J 2K9
 Phoneno::12345772698
 Email::EW@gmail.com
-Status::
-
-Next Record
-You reached the end of Records
-
-Next Record
-You reached the end of Records
 
 Previous Record
 Customer Id::2
@@ -139,7 +83,6 @@ Country::Canada
 Postal Code::B3J 2K9
 Phoneno::12345568535
 Email::DW@gmail.com
-Status::
 
 Previous Record
 Customer Id::1
@@ -151,15 +94,8 @@ City::Halifax
 Province::Nova Scotia
 Country::Canada
 Postal Code::B3J 2K9
-Phoneno::123456789
+Phoneno::902-579-9333
 Email::DC@gmail.com
-Status::
-
-Previous Record
-You reached the end of Records
-
-Previous Record
-You reached the end of Records
 
 Previous Record
 You reached the end of Records
