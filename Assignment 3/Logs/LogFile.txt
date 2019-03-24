@@ -1,0 +1,165 @@
+
+Form Load Successful!
+Customer Id::1
+Firstname::Divya
+Lastname::Chainani
+Streetno::1333
+Streetname::South Park Street
+City::Halifax
+Province::Nova Scotia
+Country::Canada
+Postalcode::B3J 2K9
+Phoneno::123456789
+Email::DC@gmail.com
+Status::
+
+Next Record
+Customer Id::2
+Firstname::David
+Lastname::Watson
+Streetn::1333
+Streetname::South Park Street
+City::Halifax
+Province::Nova Scotia
+Country::Canada
+Postalcode::B3J 2K9
+Phoneno::12345568535
+Email::DW@gmail.com
+Status::
+
+Next Record
+Customer Id::3
+Firstname::Emma
+Lastname::Watson
+Streetn::1333
+Streetname::South Park Street
+City::Halifax
+Province::Nova Scotia
+Country::Canada
+Postalcode::B3J 2K9
+Phoneno::12345772698
+Email::EW@gmail.com
+Status::
+
+Next Record
+You reached the end of Records
+
+Previous Record
+Customer Id::2
+Firstname::David
+Lastname::Watson
+Streetno::1333
+Streetname::South Park Street
+City::Halifax
+Province::Nova Scotia
+Country::Canada
+Postal Code::B3J 2K9
+Phoneno::12345568535
+Email::DW@gmail.com
+Status::
+
+Previous Record
+Customer Id::1
+Firstname::Divya
+Lastname::Chainani
+Streetno::1333
+Streetname::South Park Street
+City::Halifax
+Province::Nova Scotia
+Country::Canada
+Postal Code::B3J 2K9
+Phoneno::123456789
+Email::DC@gmail.com
+Status::
+
+Previous Record
+You reached the end of Records
+
+Previous Record
+You reached the end of Records
+
+Previous Record
+You reached the end of Records
+
+Previous Record
+You reached the end of Records
+
+Previous Record
+You reached the end of Records
+
+Previous Record
+You reached the end of Records
+
+Previous Record
+You reached the end of Records
+
+Next Record
+Customer Id::2
+Firstname::David
+Lastname::Watson
+Streetn::1333
+Streetname::South Park Street
+City::Halifax
+Province::Nova Scotia
+Country::Canada
+Postalcode::B3J 2K9
+Phoneno::12345568535
+Email::DW@gmail.com
+Status::
+
+Next Record
+Customer Id::3
+Firstname::Emma
+Lastname::Watson
+Streetn::1333
+Streetname::South Park Street
+City::Halifax
+Province::Nova Scotia
+Country::Canada
+Postalcode::B3J 2K9
+Phoneno::12345772698
+Email::EW@gmail.com
+Status::
+
+Next Record
+You reached the end of Records
+
+Next Record
+You reached the end of Records
+
+Previous Record
+Customer Id::2
+Firstname::David
+Lastname::Watson
+Streetno::1333
+Streetname::South Park Street
+City::Halifax
+Province::Nova Scotia
+Country::Canada
+Postal Code::B3J 2K9
+Phoneno::12345568535
+Email::DW@gmail.com
+Status::
+
+Previous Record
+Customer Id::1
+Firstname::Divya
+Lastname::Chainani
+Streetno::1333
+Streetname::South Park Street
+City::Halifax
+Province::Nova Scotia
+Country::Canada
+Postal Code::B3J 2K9
+Phoneno::123456789
+Email::DC@gmail.com
+Status::
+
+Previous Record
+You reached the end of Records
+
+Previous Record
+You reached the end of Records
+
+Previous Record
+You reached the end of Records
